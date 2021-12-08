@@ -1,3 +1,5 @@
+[![Build and Deploy](https://github.com/eduardoao/angular-ci-cd/actions/workflows/build-deploy.yml/badge.svg)](https://github.com/eduardoao/angular-ci-cd/actions/workflows/build-deploy.yml)
+
 # AngularCiCd2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
